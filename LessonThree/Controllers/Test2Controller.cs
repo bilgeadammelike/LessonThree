@@ -22,7 +22,6 @@ namespace LessonThree.Controllers
             return new Product { ProductName = "productName" };
         }
 
-
         //http://localhost:15701/api/products/1/orders/56
         //api keywordünü kullanırsak.
 
